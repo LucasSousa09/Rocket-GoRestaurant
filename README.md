@@ -1,4 +1,4 @@
-# GoRestaurant - Desafio 02 do 2º módulo da trlha de React
+# GoRestaurant - Desafio 02 do 2º módulo da trilha de React
 
 Um restaurante com vários pratos de dar àgua na boca.
 
