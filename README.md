@@ -21,3 +21,4 @@ Um restaurante com vários pratos de dar àgua na boca.
 - Migração da aplicação de javascript para typescript
 - Migração da aplicação de Class Components para Function Components
 - Adicionar uma nova aplicação de dar àgua na boca para o portifólio
+- Obs: Aplicação antes da refaturação disponivel em "https://github.com/rocketseat-education/ignite-template-reactjs-refactoring-classes-ts"
